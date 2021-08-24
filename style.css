@@ -1,0 +1,31 @@
+
+html, body {
+ 
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  
+}
+canvas {
+  display: block;
+}
+
+input[type=text] {
+  font-family: monospace;
+  width: 100%;
+  border: 0;
+  background-color: #FF6FFF;
+  color: #000000;
+  text-align: center
+}
+
+.button {
+  background-color: #E9D2DE
+  border: none;
+  color: white;
+  padding: 0px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 8px;
+}
