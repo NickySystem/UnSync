@@ -6,6 +6,7 @@ and WebMIDI.js. My first atttempt at music tool creation.
 ## Installation
 
 Download, unzip and run the index.html.
+OR... run it in the browser here: https://nickysystem.itch.io/unsync
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
